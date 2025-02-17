@@ -1,3 +1,3 @@
-### Hi there 👋
-
-I'm Riccardo Zappitelli, I'm 16yo and I'm a python developer, 
+17 y/o
+Riccardo Zappitelli
+Python,Javascript,Lua
